@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Ionic Sample Randesco',
-    description: "This is an example first start of a layout for a progressive web app built utilizing Ionic, which could be turned into an app for mobile app stores. ",
-      image: './images/mockupIonic.png',
-      tags: ['Angular', 'Ionic'],
-    demo: 'https://randescoexample.web.app/folder/Inbox',
-    visit: 'https://randescoexample.web.app/folder/Inbox',
+    title: 'Travel Website',
+    description: "Using React, HTML, CSS & JS to display a website that users can look at places they would want to visit.",
+      image: './images/adventureawaits1.png',
+      tags: ['React', 'CSS'],
+    demo: 'https://demotravelwebsitedavidspindler.netlify.app/',
+    visit: 'https://github.com/davidspindler/DemoTravelWebsite',
     id: 0,
   },
   {
@@ -27,19 +27,19 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'TRVL WEBSITE',
-    description: "Using React, HTML, CSS & JS to display a website that users can look at places they would want to visit.",
-    image: '/images/adventureawaits1.png',
-    tags: ['React', 'CSS'],
-    demo: 'https://demotravelwebsitedavidspindler.netlify.app/',
-    visit: 'https://github.com/davidspindler/DemoTravelWebsite',
+    title: 'Ether Site',
+    description: "GPU Intensive take on a model of Ethereum // Original Portfolio Site ",
+    image: '/images/eth.png',
+    tags: ['Glsl', 'CSS'],
+    demo: 'https://davidspindler.online/',
+    visit: 'https://github.com/davidspindler',
     id: 3,
   },
 ];
 
 export const TimeLineData = [
   { year: 2018, text: 'Graduated with B.S. in Mathematics', },
-  { year: 2019, text: 'Learned foundations of Computer Science', },
-  { year: 2020, text: 'Worked on Front End Web Development', },
-  { year: 2021, text: 'Freelance Web Developer', },
+  { year: 2019, text: 'Tutored Programming courses for students at Optimus Learning Center', },
+  { year: 2020, text: 'Freelance Front End Web Developer // Progamming Tutor', },
+  { year: 2021, text: 'Freelance Full Stack Software Engineer', },
 ];
